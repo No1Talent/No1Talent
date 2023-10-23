@@ -27,16 +27,25 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
+[linkedin](https://www.linkedin.com/in/elenka-li/)
+[gmail](liquanheng.elenka@gmail.com)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+1. **Credit Risk Analysis**
+   - Predicting credit default risk using machine learning algorithms.
+   - Dataset: [Link to Dataset]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+2. **Customer Churn Prediction**
+   - Analyzing customer behavior and predicting churn.
+   - Dataset: [Link to Dataset]
+
+3. **Natural Language Processing (NLP)**
+   - Text analysis, sentiment analysis, and text classification.
+   - Dataset: [Link to Dataset]
+
+4. **Data Visualization**
+   - Interactive visualizations created with tools like Matplotlib, Seaborn, and Plotly.
+   - Code for generating insightful plots and graphs.
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
