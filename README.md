@@ -12,7 +12,7 @@ Specifically, my interest is in investment analytics and healthcare data analyti
 
 
 ## 👨‍💻 Machine Learning Projects
-1. **Credit Risk Analysis And Default Risk Analysis (R)**
+1. **Credit Risk Analysis And Customer Churn Prediction (R)**
    - Data visualization, Predictively Modelling, Expected Profit Framework
    - Dataset: [https://www.kaggle.com/competitions/home-credit-default-risk/data]
 2. **TikTok's Trending Videos and Top TikToker Analysis (Python)**
