@@ -1,58 +1,43 @@
-# Hi, I'm Elenka! 
+# Welcome to Elenka's Workspace! 
 
-<h2>Bio</h2>
+## Bio
 Currently an M.S. in Quantitative Management: Business Analytics, Finance Track Candidate at Duke University, the Fuqua School of Business, I home in on real impact and hope to utilize my critical thinking and data analytical skills to foster a better world.
 Specifically, my interest is in investment analytics and healthcare data analytics.
-<br />
+
+- 🔭 I’m currently living in Durham, NC
+- 🌱 I’m interested in Modern Analytics | AI in Healthcare | Everyday World Trend
+- 👯 I’m looking for full-time roles as a Data Scientist or investment Analyst after graduating May 2024
+- ⚡ MBIT: ENTJ - A
+- 😊 FunFacts: I'm a carnivore in songs
 
 
-<h2>👨‍💻 Machine Learning Projects</h2>
+## 👨‍💻 Machine Learning Projects
+1. **Credit Risk Analysis And Default Risk Analysis (R)**
+   - Data visualization, Predictively Modelling, Expected Profit Framework
+   - Dataset: [https://www.kaggle.com/competitions/home-credit-default-risk/data]
+2. **TikTok's Trending Videos and Top TikToker Analysis (Python)**
+   (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+4. **MLB Data Exploration (SQL)**
+5. **Health Insurance Policy Evaluation on Medical Utilization and Health Behavior (Stata)**]
+    - Explored causal effects of the New Cooperative Medical Scheme (NCMS) on healthcare utilization and health behaviors among non-urban Chinese citizens via the Instrument Variable (IV) Regression Model.
+    - Discovered that NCMS significantly increases rural residents' chance of visiting formal doctors rather than barefoot by 6.73% and their attention to exercise and diets by 0.75 units out of a Likert Scale of 5.
 
-- <b>Home Credit Default Risk Prediction (R) </b>
-  - [Home Credit Default Risk Prediction (R)](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+7. **Does A Wealthier and Older Society Boost Household Healthcare Spending? (R, EViews)**
+    - Collected time series data from the Organization for Economic Cooperation and Development (OECD) and the National Bureau of Statistics of China (NBS-CN) to perform exploratory analysis in EViews.
+    - Built an Autoregressive Distributed Lag Model to estimate the dynamic effects of per capita income (GDP) and aged population share (AGE) on household healthcare expenditure (HHE) in China, showing that both GDP and AGE are significant drivers of HHE and display predictive power over future HHE.
+1. **Research on the Phenomenon of Industrial Clusters of Registered Firms in China (Python)**
+    - Perform Research Assistantship: Data Cleaning and Model Build-up
+3. **P-hacking Detection in Asset Pricing Papers**
+    - Perform Research Assistantship: Data Cleaning and Model Build-up
+  
+10. **Semi-Conductor Industry Data Visualization**
 
-<h2>📺 Causal Inference Projects Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 👨‍💻 My BookList 2023
+- 
 
-<h2> 🤳 Connect with me:</h2>
-[linkedin](https://www.linkedin.com/in/elenka-li/)
-[gmail](liquanheng.elenka@gmail.com)
 
-1. **Credit Risk Analysis**
-   - Predicting credit default risk using machine learning algorithms.
-   - Dataset: [Link to Dataset]
-
-2. **Customer Churn Prediction**
-   - Analyzing customer behavior and predicting churn.
-   - Dataset: [Link to Dataset]
-
-3. **Natural Language Processing (NLP)**
-   - Text analysis, sentiment analysis, and text classification.
-   - Dataset: [Link to Dataset]
-
-4. **Data Visualization**
-   - Interactive visualizations created with tools like Matplotlib, Seaborn, and Plotly.
-   - Code for generating insightful plots and graphs.
-
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -66,12 +51,8 @@ Specifically, my interest is in investment analytics and healthcare data analyti
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+4. **Data Visualization**
+   - Interactive visualizations created with tools like Matplotlib, Seaborn, and Plotly.
+   - Code for generating insightful plots and graphs.
+   - [Research on the Phenomenon of Industrial Clusters of Registered Firms in China (Python)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 -->
