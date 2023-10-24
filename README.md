@@ -2,13 +2,13 @@
 
 ## Bio
 Currently an M.S. in Quantitative Management: Business Analytics, Finance Track Candidate at Duke University, the Fuqua School of Business, I home in on real impact and hope to utilize my critical thinking and data analytical skills to foster a better world.
-Specifically, my interest is in investment analytics and healthcare data analytics.
+Specifically, my passion is in investment analytics and healthcare data analytics.
 
 - 🔭 I’m currently living in Durham, NC
 - 🌱 I’m interested in Modern Analytics | AI in Healthcare | Everyday World Trend
 - 👯 I’m looking for full-time roles as a Data Scientist or investment Analyst after graduating May 2024
 - ⚡ MBIT: ENTJ - A
-- 😊 FunFacts: I'm a carnivore in songs
+- 😊 Fun Facts: I'm a carnivore in songs
 
 
 ## 👨‍💻 Machine Learning Projects
