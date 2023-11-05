@@ -1,7 +1,7 @@
 # Welcome to Elenka's Workspace! 
 
 ## Bio
-Currently an M.S. in Quantitative Management: Business Analytics, Finance Track Candidate at Duke University, the Fuqua School of Business, I home in on real impact and hope to utilize my critical thinking and data analytical skills to foster a better world.
+Currently an M.S. in Quantitative Management: Business Analytics & Finance Candidate at Duke University, the Fuqua School of Business, I home in on real impact and hope to utilize my critical thinking and data analytical skills to foster a better world.
 Specifically, my passion is in investment analytics and healthcare data analytics.
 
 - 🔭 I’m currently living in Durham, NC
