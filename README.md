@@ -16,7 +16,7 @@ Specifically, my passion is in investment analytics and healthcare data analytic
    - Data visualization, Predictively Modelling, Expected Profit Framework
    - Dataset: [https://www.kaggle.com/competitions/home-credit-default-risk/data]
 2. **TikTok's Trending Videos and Top TikToker Analysis (Python)**
-   (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+   (link) 
 4. **MLB Data Exploration (SQL)**
 5. **Health Insurance Policy Evaluation on Medical Utilization and Health Behavior (Stata)**]
     - Explored causal effects of the New Cooperative Medical Scheme (NCMS) on healthcare utilization and health behaviors among non-urban Chinese citizens via the Instrument Variable (IV) Regression Model.
