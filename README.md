@@ -11,13 +11,23 @@ Specifically, my passion is in investment analytics and healthcare data analytic
 - 😊 Fun Facts: I'm a carnivore in songs
 
 
-## 👨‍💻 Machine Learning Projects
-1. **Credit Risk Analysis And Customer Churn Prediction (R)**
+## 👨‍💻 Data Science Projects
+1.**Navigating A Self-Driving Car Using CNN (Python)**
+   - In this project we leveraged deep learning to enhance unmanned driving, focusing on autonomous navigation and lane following using a Python-based agent trained with Convolutional Neural Networks (CNN) and Multi-Layer Perceptrons (MLP).
+   - Nvidia Model (2019)
+   - LightNet 1 (2022)
+   - LightNet 2 (2020)
+2. **Credit Risk Analysis And Customer Churn Prediction (R)**
    - Data visualization, Predictively Modelling, Expected Profit Framework
    - Dataset: [https://www.kaggle.com/competitions/home-credit-default-risk/data]
-2. **TikTok's Trending Videos and Top TikToker Analysis (Python)**
+3. **TikTok's Trending Videos and Top TikToker Analysis (Python)**
    (link) 
-4. **MLB Data Exploration (SQL)**
+4. **MLB Moneyball: Decoding Baseball Sabermetrics (SQL)**
+     - In the world of Major League Baseball (MLB), the abundance of data has become a game-changer. Inspired by the concept of “Moneyball,” this project aims to leverage data-driven insights to provide valuable insights into player scouting, team strategy, and performance evaluation.
+     - Comparative Advantages & Disadvantages
+     - Tanking Tactics
+     - Does friendliness improve Performance?
+     - Identify Breakout Players
 5. **Health Insurance Policy Evaluation on Medical Utilization and Health Behavior (Stata)**]
     - Explored causal effects of the New Cooperative Medical Scheme (NCMS) on healthcare utilization and health behaviors among non-urban Chinese citizens via the Instrument Variable (IV) Regression Model.
     - Discovered that NCMS significantly increases rural residents' chance of visiting formal doctors rather than barefoot by 6.73% and their attention to exercise and diets by 0.75 units out of a Likert Scale of 5.
